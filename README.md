@@ -13,7 +13,7 @@ Welcome to the repository of my personal portfolio website! This site showcases 
 - **Contact Form:** Custom contact form for direct messages using Web3Forms integration.
 
 - **Resume Section:** A dedicated resume section made with Bootstrap 5.
-- 
+
 ## Built With
 
 - [Bootstrap 5](https://getbootstrap.com/)
