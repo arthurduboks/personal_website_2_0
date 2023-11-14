@@ -11875,13 +11875,14 @@ a.btn svg {
 }
 .btn-primary {
   color: #fff;
-  background: #fe655c;
+  background: #8301da;
+  border-color: #9801fe;
 }
 .btn-primary:hover,
 .btn-primary:active {
   color: #fff;
-  background: #fe4d43;
-  border-color: #fe4d43;
+  background: #9801fe;
+  border-color: #9801fe;
 }
 .btn-primary svg {
   stroke-width: 2px;
@@ -12057,10 +12058,10 @@ a.more-link .link-arrow .bi {
   font-size: 0.675rem;
 }
 .side-panel .navbar-nav .nav-link.active {
-  color: #fe655c;
+  color: #9801fe;
 }
 .side-panel .navbar-nav .nav-link.active:hover {
-  color: #fe655c;
+  color: #9801fe;
 }
 .side-panel .navbar-nav .nav-link:hover {
   color: #fff;
